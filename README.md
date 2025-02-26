@@ -5,6 +5,7 @@
 ✈️ Possuo inglês nível avançado, sou proativo, tenho facilidade para aprender e estou sempre em buscar de evoluir! <br>
 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/davih-chagas/)
 
+-------
 ## Minhas Tecnologias
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/> 
