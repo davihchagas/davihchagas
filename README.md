@@ -1,8 +1,8 @@
 ## Welcome to my portfolio!
 
 💻 Hy, my name is Davi Araujo Chagas! <br>
-📄 I'm a Junior Front-End Developer and currently studying Computer Science at UCB.<br>
-✈️ Developer with 6 months of focused study in front-end development, with hands-on experience in personal projects using React, currently seeking a first internship opportunity. <br>
+📄 I'm a Fullstack Developer and currently studying Computer Science at UCB.<br>
+✈️ Developer with 2 years of study, with hands-on experience in personal projects using React, currently seeking a first internship opportunity. <br>
 📫[My Linkedin](https://www.linkedin.com/in/davih-chagas/)
 
 -------
@@ -13,6 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
 </p>   
 
           
