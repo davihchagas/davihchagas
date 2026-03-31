@@ -2,7 +2,7 @@
 
 💻 Hy, my name is Davi Araujo Chagas! <br>
 📄 I'm a Fullstack Developer and currently studying Computer Science at UCB.<br>
-✈️ Developer with 2 years of study, with hands-on experience in personal projects using React, currently seeking a first internship opportunity. <br>
+✈️ Developer with 2 years of study, with hands-on experience in personal projects using React. <br>
 📫[My Linkedin](https://www.linkedin.com/in/davih-chagas/)
 
 -------
